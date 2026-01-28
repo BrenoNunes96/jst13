@@ -14,6 +14,18 @@ console.log(salarioNovo)
 BancoSalarial()
 
 
+let salario = leia.questionFloat("digite seu salario")
+console.log(salario)
+let bonus = leia.questionFloat("digite seu bonus")
+console.log(bonus)
+let salN = salario + bonus;
+console.log(salN)
+
+
+
+
+
+
 
 function media (){
 let notaPrimeira = leia.questionFloat('digite a nota 1')
