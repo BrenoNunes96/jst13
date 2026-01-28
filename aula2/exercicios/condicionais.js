@@ -5,9 +5,9 @@ let nome = ''
 switch(nome){
 case 'breno':
 return console.log( `nome do usuario é  ${nome}`)
-case 'julia':
+case 'matheus':
     return console.log(`nome do usuario é ${nome}`)
-case 'regina':
+case 'gustavo':
     return console.log( `nome do usuario é  ${nome}`)
 default:
     console.log("nenhum usuario encontrado")
