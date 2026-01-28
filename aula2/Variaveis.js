@@ -13,7 +13,8 @@ console.log(new Intl.NumberFormat("pt-br",{
 
 let num2 =42
 let num = '42'
-
+ --num2
+ console.log(num2)
 
 if(num !== num2){
 
