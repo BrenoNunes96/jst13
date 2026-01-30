@@ -68,7 +68,7 @@ idade > 18 ? maior = console.log('maior de idade'): menor = console.log("menor d
 
 
 
-// exercicios condicionais
+// exercicios condicionais LISTA 1 E 2 
 
 const resultadoAbc = ()=>{
 let A = 0
